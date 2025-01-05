@@ -18,7 +18,7 @@
 <h1 align="left">❗️Системные требования</h1>
 
 <h6>• 🖥Windows 7 SP2 x64 и новее</h6>
-<h6>• 🖱Microsoft Visual C++ 2015-2022</h6>
+<h6>• ⚠️Microsoft Visual C++ 2015-2022</h6>
 
 
 <h1 align="left">👥 Создатели</h1>
