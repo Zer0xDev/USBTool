@@ -19,9 +19,9 @@
 <br>• Windows 7 SP2 x64 и новее</br>
 <br>• Microsoft Visual C++ 2015-2022</br>
 
-<h1 align="left">Есть вопросы?</h1>
 
-<br>Telegram: @zeroxxDEV</br>
-<br>Discord: zeroxdev_39420</br>
+<h1 align="left">Создатели</h1>
 
-
+<h6>Разработчик (кодер): ZeroxDev</h6>
+<h6>Огромная благодарнасть Daniel Myslivets за помощь </h6>
+<h6>в разработке :)</h6>
