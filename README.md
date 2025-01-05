@@ -6,6 +6,8 @@
 
 <div align="left">
 
+<img src="1.png" height="240" width="350">
+<img src="2.png" height="240" width="350">
 
 <h1 align="left">🔥 Преимущества</h1>
 <div align="left">
